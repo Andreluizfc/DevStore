@@ -1,4 +1,5 @@
 ﻿using Dev.Store.Domain;
+using DevStore.Infra.Mappings;
 using System.Data.Entity;
 
 namespace DevStore.Infra.DataContexts
@@ -13,6 +14,14 @@ namespace DevStore.Infra.DataContexts
         public DbSet<Product> Products { get; set; }
 
         public DbSet<Category> Categories { get; set; }
+
+        protected override void OnModelCreating(DbModelBuilder modelBuilder)
+        {
+            modelBuilder.Configurations.Add(new ProductMap());
+            modelBuilder.Configurations.Add(new CategoryMap());
+            base.OnModelCreating(modelBuilder);
+        }
+
 
     }
 
