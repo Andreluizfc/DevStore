@@ -1,0 +1,5 @@
+c:\users\andré\documents\visual studio 2015\Projects\DevStore\Dev.Store.Domain\bin\Debug\Dev.Store.Domain.dll
+c:\users\andré\documents\visual studio 2015\Projects\DevStore\Dev.Store.Domain\bin\Debug\Dev.Store.Domain.pdb
+c:\users\andré\documents\visual studio 2015\Projects\DevStore\Dev.Store.Domain\obj\Debug\Dev.Store.Domain.csprojResolveAssemblyReference.cache
+c:\users\andré\documents\visual studio 2015\Projects\DevStore\Dev.Store.Domain\obj\Debug\Dev.Store.Domain.dll
+c:\users\andré\documents\visual studio 2015\Projects\DevStore\Dev.Store.Domain\obj\Debug\Dev.Store.Domain.pdb
