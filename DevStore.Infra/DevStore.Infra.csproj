@@ -55,9 +55,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Dev.Store.Domain\Dev.Store.Domain.csproj">
+    <ProjectReference Include="..\Dev.Store.Domain\DevStore.Domain.csproj">
       <Project>{86e501ad-9e9f-4be7-a651-055b39d11ccf}</Project>
-      <Name>Dev.Store.Domain</Name>
+      <Name>DevStore.Domain</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

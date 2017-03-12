@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dev.Store.Domain", "Dev.Store.Domain\Dev.Store.Domain.csproj", "{86E501AD-9E9F-4BE7-A651-055B39D11CCF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevStore.Domain", "Dev.Store.Domain\DevStore.Domain.csproj", "{86E501AD-9E9F-4BE7-A651-055B39D11CCF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevStore.Infra", "DevStore.Infra\DevStore.Infra.csproj", "{35B7BCBD-7E6E-4E72-ADC8-00268E6FDA1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevStore.Api", "DevStore.Api\DevStore.Api.csproj", "{01A16EEC-CCDB-4EA6-9E48-AE80F342FC6E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{35B7BCBD-7E6E-4E72-ADC8-00268E6FDA1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35B7BCBD-7E6E-4E72-ADC8-00268E6FDA1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35B7BCBD-7E6E-4E72-ADC8-00268E6FDA1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01A16EEC-CCDB-4EA6-9E48-AE80F342FC6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01A16EEC-CCDB-4EA6-9E48-AE80F342FC6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01A16EEC-CCDB-4EA6-9E48-AE80F342FC6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01A16EEC-CCDB-4EA6-9E48-AE80F342FC6E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

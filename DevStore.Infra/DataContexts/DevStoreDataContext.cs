@@ -11,9 +11,9 @@ namespace DevStore.Infra.DataContexts
             Database.SetInitializer<DevStoreDataContext>(new DevStoreDataContextInitializer());
         }
 
-        public DbSet<Product> Products { get; set; }
+        public IDbSet<Product> Products { get; set; }
 
-        public DbSet<Category> Categories { get; set; }
+        public IDbSet<Category> Categories { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {

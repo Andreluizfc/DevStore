@@ -7,6 +7,6 @@ c:\users\andré\documents\visual studio 2015\Projects\DevStore\DevStore.Infra\bi
 c:\users\andré\documents\visual studio 2015\Projects\DevStore\DevStore.Infra\bin\Debug\Dev.Store.Domain.pdb
 c:\users\andré\documents\visual studio 2015\Projects\DevStore\DevStore.Infra\bin\Debug\EntityFramework.xml
 c:\users\andré\documents\visual studio 2015\Projects\DevStore\DevStore.Infra\bin\Debug\EntityFramework.SqlServer.xml
-c:\users\andré\documents\visual studio 2015\Projects\DevStore\DevStore.Infra\obj\Debug\DevStore.Infra.csprojResolveAssemblyReference.cache
 c:\users\andré\documents\visual studio 2015\Projects\DevStore\DevStore.Infra\obj\Debug\DevStore.Infra.dll
 c:\users\andré\documents\visual studio 2015\Projects\DevStore\DevStore.Infra\obj\Debug\DevStore.Infra.pdb
+c:\users\andré\documents\visual studio 2015\Projects\DevStore\DevStore.Infra\obj\Debug\DevStore.Infra.csprojResolveAssemblyReference.cache
