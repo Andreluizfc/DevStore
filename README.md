@@ -1,3 +1,3 @@
 # DevStore
 
-Studies: Example followed using Entity Framework 
+Studies: Example of an API using Entity Framework 
